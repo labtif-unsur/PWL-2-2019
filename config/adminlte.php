@@ -233,7 +233,6 @@ return [
             'text' => 'Buku',
             'url' =>'buku',
             'icon'=>'fa fa-book',
-
         ],
         [
             'text' => 'blog',
